@@ -5,3 +5,5 @@ Despite graduating as a Bachelor of Logistics and Supply Chain, my thesis was mo
 This might be destiny, I think 🙋‍♂️.
 
 In my Thesis, I only use Arena Simulation to build a simulation model for a hospital to look for some drawbacks and bottlenecks. Then using Cplex for optimizing resources. 
+
+I would like to thank MSc. Nguyen Hoang Huy for helping me in my thesis.
